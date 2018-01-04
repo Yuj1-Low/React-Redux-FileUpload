@@ -67,3 +67,4 @@ https://github.com/okonet/react-dropzone/blob/master/src/index.js
 
 サーバーとのやり取りのところも公式のREADMEにSuperAgentを用いたサンプルが出ているので割と楽には出来そうな感じはある。
 
+# React-Redux-FileUpload
